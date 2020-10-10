@@ -1,0 +1,2 @@
+# doJump
+Plain JavaScript game
